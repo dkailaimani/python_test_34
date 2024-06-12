@@ -1,0 +1,56 @@
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+
+hr {
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 20px 0;
+}
+
+.background-section {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.education-section {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.career-goals-section {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.personal-interests-section {
+    background-color: #eaeaea;
+    padding: 20px;
+    border-radius: 5px;
+}
